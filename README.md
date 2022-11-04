@@ -4,11 +4,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizaraujo1&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
   <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1030933991336984689/1030934393642025012/34ce2ddfd05ff6f56f4d20ce53328103.gif?width=676&height=676">
+
+  <img align="right" alt="lA-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1030933991336984689/1030934393642025012/34ce2ddfd05ff6f56f4d20ce53328103.gif?width=676&height=676">
 </div>
 
 ##
